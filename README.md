@@ -1,2 +1,2 @@
 # Singapore-Employment-Trend-By-Major
-Exploring employment trends using GES data from MOE. 
+Job-seeking for fresh graduates seems to be so tough! What are some trends and patterns that can be uncovered?
